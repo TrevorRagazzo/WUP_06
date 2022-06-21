@@ -76,7 +76,7 @@ rowPerc(table2)
 colPerc(table2)
 ```
 
-
+This graph is showing results in numbers, in both results the white race has the biggest majority with being in favor of capitol punishment with 67% and 78% being in favor and having smaller percentages opposed. The second highest was the other races being in favor and lastly the black race was the most opposed. 
 
 
 ## Now with More data
