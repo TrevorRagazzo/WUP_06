@@ -81,12 +81,6 @@ This graph is showing results in numbers, in both results the white race has the
 
 ## Now with More data
 
-```{r}
-table2 <- xtabs(~race + cappun, data=mydata)
-rowPerc(table2)
-colPerc(table2)
-```
-
 
 ## Inferential Results
 
