@@ -64,6 +64,7 @@ basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
 
+This graph is showing results of which races seem in favor of capital punishment. The results seem that the white race seems the most in favor for punishment while the black race seems to be the most against capitol punishment. 
 
 ### Numerical Descriptive Results
 
