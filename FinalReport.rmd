@@ -13,6 +13,7 @@ output: html_document
 
 ```{r include=FALSE,echo=FALSE}
 source(file="fisherXY.R")
+
 require(tidyverse)
 require(tigerstats)
 require(knitr)
@@ -79,9 +80,6 @@ colPerc(table2)
 This graph is showing results in numbers, in both results the white race has the biggest majority with being in favor of capitol punishment with 67% and 78% being in favor and having smaller percentages opposed. The second highest was the other races being in favor and lastly the black race was the most opposed. 
 
 
-## Now with More data
-
-
 ## Inferential Results
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
@@ -98,8 +96,13 @@ fisher.test(table2)
 #fisherXY(mydata$race,mydata$cappun)
 ```
 
+
+The Chi-Square is showing us that there is little to no difference between the races and the P results. So we will run the FisherXY test for more information
+
+
+
 ```{r}
-fisherXY(mydata$cappun,mydata$race)
+fisherXY(mydata$cappun,mydata$race,printAll = TRUE)
 ```
  
 
