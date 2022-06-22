@@ -76,7 +76,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
-
+In these results we see people in the white race have a higher percentage of being in favor of capitol punishment than the black and the other races. Comapring the other and the black race we see results of other being more in favor. The main result we see is that the White race is the most infavor of captiol punishment. 
 
 
 ## Now with less data
