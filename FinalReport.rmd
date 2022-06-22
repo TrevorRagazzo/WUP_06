@@ -63,6 +63,7 @@ basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
 
+In this graph it shows over 300 white participants and most being in favor of capitol punishment, the black race seems to almost be equal in saying not in favor or opposed, and the other seems to lead more in favor than being opposed. 
 
 ### Numerical Descriptive Results
 
