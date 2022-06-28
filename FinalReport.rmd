@@ -174,9 +174,12 @@ fisherXY = function(x, y, confL = 0, printAll=FALSE){
 fisherXY(mydata$cappun,mydata$race,printAll = TRUE)
 ```
  
-This shows that White and other is pretty similar in results and the only difference we see if that white and black has a big difference. We can also say that Other and Black has a big differnce. 
+This shows that White and other is pretty similar in results and the only difference we see if that white and black has a big difference. We can also say that Other and Black has a big difference. 
 
 
 # Discussion and Conclusion
+
+The results are showing us that in general we see people of the white race being the most in favor of capital punishment. Unlike the black and other races that seem to be more against cappital punishment. 
+
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
